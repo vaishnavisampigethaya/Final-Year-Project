@@ -1,0 +1,17 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="org.opencv"
+5    android:versionCode="3450"
+6    android:versionName="3.4.5" >
+7
+8    <uses-sdk
+8-->C:\Users\User\OneDrive\Desktop\Final project\FaceRecognition\openCVLibrary345\src\main\AndroidManifest.xml:8:5-9:42
+9        android:minSdkVersion="8"
+9-->C:\Users\User\OneDrive\Desktop\Final project\FaceRecognition\openCVLibrary345\src\main\AndroidManifest.xml:8:15-40
+10        android:targetSdkVersion="30"
+10-->C:\Users\User\OneDrive\Desktop\Final project\FaceRecognition\openCVLibrary345\src\main\AndroidManifest.xml:8:41-70
+11        tools:ignore="GradleOverrides" />
+11-->C:\Users\User\OneDrive\Desktop\Final project\FaceRecognition\openCVLibrary345\src\main\AndroidManifest.xml:9:9-39
+12
+13</manifest>
